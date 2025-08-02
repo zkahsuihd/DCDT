@@ -13,7 +13,7 @@ DCDT: A Domain-Generalized Conditional Diffusion Transformer for Cross-Subject E
 
 # Overview
 
-![](C:\Users\ck\Desktop\images\frame.png)
+![](visualization/frame.png)
 
 
 
@@ -84,5 +84,5 @@ Experimental results demonstrate that the DCDT framework achieves a comprehensiv
 
 
 
-![](C:\Users\ck\Desktop\images\model_accuracy_comparison.png)
+![](visualization/model_accuracy_comparison.png)
 
